@@ -8,13 +8,13 @@
 |Internal Name|`arc`|
 |Solid|Yes|
 |Health|260    |
-|Size|1x1  |
+|Size|2x2  |
 |Build Time|0.88  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x35 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x50  |
+|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x0 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x0  |
 
 |Power||
 | --- | --- |
-|Power Use|90  power units/second  |
+|Power Use|1  power units/second  |
 
 |Liquids||
 | --- | --- |
@@ -22,13 +22,13 @@
 
 |Shooting||
 | --- | --- |
-|Range|11.25  blocks  |
+|Range|110000.25  blocks  |
 |Inaccuracy|0  degrees  |
 |Shots|1    |
 |Shots/Second|1.71    |
-|Targets Air|No  |
+|Targets Air|Yes  |
 |Targets Ground|Yes  |
-|Damage|21    |
+|Damage|210    |
 
 |Optional Enhancements||
 | --- | --- |
